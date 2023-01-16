@@ -1,0 +1,4 @@
+Link tải dataset:
+
+1. https://nocaps.org/download
+2. https://cocodataset.org/#download

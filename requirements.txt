@@ -1,0 +1,7 @@
+torch 
+numpy 
+pickle
+pycocotools
+tqdm
+torchvision
+nltk
